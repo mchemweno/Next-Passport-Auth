@@ -1,7 +1,10 @@
-NextJs app complete auth module
+#NextJs app complete auth module
 
-Includes:-
-
-Passport-local
-Passport-facebook
-Passport-Google
+###Includes:-
+* Passport-local
+* Passport-facebook
+* Passport-Google
+* Password reset
+* Password change
+* Sign up
+* login
